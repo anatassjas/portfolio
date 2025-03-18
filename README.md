@@ -5,7 +5,7 @@ I'm a senior at the University of Texas at Austin, graduating in December 2025 w
 
 ## Work Experience
 Quality Intern @ Upspring
-- Conductproduct testing procedures to ensure compliance with FDA safety regulations and company standards.
+- Conduct product testing procedures to ensure compliance with FDA safety regulations and company standards.
 - Collaborate with the Supply Chain team to inspect and verify the quality of incoming product shipments, addressing any
  discrepancies or quality issues.
 - Prepare detailed technical documents, including stability reports, Finished Goods specifications, and product testing reports,
