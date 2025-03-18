@@ -12,3 +12,5 @@ Quality Intern @ Upspring
  ensuring accuracy and regulatory compliance.
 
 ## My Projects
+
+## Certifications
